@@ -1,0 +1,21 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com>",
+  "name": "msquery",
+  "description": "A web based mssql query tool",
+  "version": "0.0.0",
+  "dependencies": {
+    "tedious": "0.0.4",
+    "director": "~1.0.10",
+    "union": "~0.3.0",
+    "filed": "0.0.6",
+    "connect": "~2.2.1",
+    "nconf": "~0.5.1"
+  },
+  "devDependencies": {
+    "coffeecup": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
